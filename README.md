@@ -6,7 +6,7 @@ Technology Stack:<br></br>
 **REST, Java, JSON, SpringBoot, Maven, MongoDB.**<br></br>
 
 I. Resource Model:<br></br>
-![alt tag](https://github.com/puneetpopli/DigitalWallet/blob/master/Resource_Model.png)<br></br>
+![alt tag](https://github.com/puneetpopli/DigitalWallet/blob/master/Digital-Wallet-Model.png)<br></br>
 
 
 II. Resource Details<br></br>
