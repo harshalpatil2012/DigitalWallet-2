@@ -16,7 +16,7 @@ user_id (System generated field) - {integer}<br></br>
 email (Required) - {string}<br></br>
 password (Required) - {string}<br></br>
 name (Required) {string}<br></br>
-genereratedDate (System generated field) - {DateTime}<br></br>
+generatedDate (System generated field) - {DateTime}<br></br>
 updatedDate (System generated field) - {DateTime}<br></br>
 
 IDCard<br></br>
