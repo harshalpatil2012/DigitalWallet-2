@@ -3,7 +3,7 @@ DigitalWallet
 Digital Wallet is a set of resources for a user to store ID cards, web-site logins and Bank accounts.<br></br>
 
 Technology Stack:<br></br>
-**REST, Java, JSON, SpringBoot, Maven, MongoDB.**<br></br>
+**REST, Java, JSON, SpringBoot, Maven and MongoDB.**<br></br>
 
 I. Resource Model:<br></br>
 ![alt tag](https://github.com/puneetpopli/DigitalWallet/blob/master/Digital-Wallet-Model.png)<br></br>
